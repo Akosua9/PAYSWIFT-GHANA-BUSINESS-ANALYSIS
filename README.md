@@ -1,6 +1,6 @@
 #  Pay Swift Ghana – Financial Insights Dashboard
 
-![Dashboard Preview](![Screenshot 2025-04-16 075013](https://github.com/user-attachments/assets/ec27f447-e3fd-46ee-bbf5-81e38e927c90)
+![Screenshot 2025-04-16 075013](https://github.com/user-attachments/assets/ec27f447-e3fd-46ee-bbf5-81e38e927c90)
 
 
 ##  Overview
@@ -79,8 +79,6 @@ Bar chart of most-used features by transaction count:
 
 ---
 
----
-
 ## ✅ Recommendations
 
 1. **Promote Underused Features**  
@@ -116,4 +114,4 @@ Bar chart of most-used features by transaction count:
 
 ## 📬 Contact
 
-Questions or feedback? Open an issue on [Email](roseakarimanga@gmail.com) or reach out directly.  
+Questions or feedback? Open an issue on [Email](roseakarimanga@gmail.com) or reach out directly on **0547159003**.  
